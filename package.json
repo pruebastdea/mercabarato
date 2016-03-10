@@ -1,0 +1,25 @@
+{
+  "name": "Nahual_Carrito",
+  "version": "0.0.0",
+  "description": "Nahual app carrito | Uruguay 2015",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NahualUY/Carrito.git"
+  },
+  "author": "nahual",
+  "license": "ISC",
+  "homepage": "https://github.com/NahualUY/Carrito",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.11.1",
+    "fs": "0.0.2",
+    "mysql": "^2.6.1",
+    "path": "^0.11.14",
+    "sequelize": "^2.0.5",
+    "sequelize-fixtures": "^0.4.1"
+  }
+}
